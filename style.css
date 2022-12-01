@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(100, 91, 91);
+}
+
+#titulo{
+color: rgb(255, 255, 255);
+font-size: 50px;
+margin: 30px;
+}
+
+#container{
+margin-top: 8px;
+display: inline-block;
+width: 90%;
+background-color: blue;
+}
+
+#card{
+   text-align: center;
+   display: inline-block;
+   width: 150px;
+   height: 190px;
+   border: solid;
+   border-color: rgb(230, 2, 2);
+   border-radius: 8px;
+   margin: 20px;
+   background-color: rgb(209, 209, 51);
+    
+}
+
+
+h1{
+    font-size: 18px;
+    text-align: center;
+    color: red;
+    
+
+}
+h3{
+    font-size: 14px;
+    text-align: center;
+    color: blue;
+}
+#select{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#filter{
+    width: 120px;
+}
+
+
