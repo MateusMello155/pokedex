@@ -99,9 +99,6 @@ var cardTemplate = document.getElementById('cardTemplate');
 var container = document.getElementById('container')
 const filter = document.getElementById('filter')
 
-function limpar(){
-    return document.getElementById('cardTemplate').innerHTML = "";
-}
 
 function allPokemons(){
  
